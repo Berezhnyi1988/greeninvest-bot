@@ -3,14 +3,3 @@ cmds = ["pip install -r requirements.txt"]
 
 [start]
 cmd = "python bot.py"
-```
-
----
-
-**`bot.py`** — скачайте новый файл выше и загрузите на GitHub (заменив старый)
-
----
-
-После трёх коммитов Railway пересоберёт проект. В логах должно появиться:
-```
-GreenInvest AI Bot запущен ✅
